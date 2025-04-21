@@ -37,5 +37,5 @@ Install dependencies:
 ```bash
 pip install opencv-python pywt scikit-learn pandas matplotlib
 
-
+```
 AI generated README.md file
